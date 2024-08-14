@@ -25,7 +25,7 @@ Nexura is a React-based web application for managing a stock watchlist and placi
 
 ![image](https://github.com/user-attachments/assets/b31db4e9-682f-43f6-9123-f60a9b4e225a)
 
-##Install Dependencies
+## Install Dependencies
 
 npm install
 
