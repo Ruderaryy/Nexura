@@ -18,9 +18,11 @@ Nexura is a React-based web application for managing a stock watchlist and placi
 - Chart.js (for the Doughnut Chart, Vertical Graph chart)
 
 ![image](https://github.com/user-attachments/assets/1c1a9224-904e-4f39-a2df-1d76d873b3f1)
-![image](https://github.com/user-attachments/assets/2c633db5-69bc-44df-9e20-d642edd739c7)
-![image](https://github.com/user-attachments/assets/acde9afc-413c-44ba-a2e7-ff4e811361ef)
+
+![image](https://github.com/user-attachments/assets/578b1431-4cef-4dcd-9a5a-e1b42cd352ae)
+
 ![image](https://github.com/user-attachments/assets/cf9a8f48-e2ee-4a14-b211-c5b9653cb416)
+
 ![image](https://github.com/user-attachments/assets/b31db4e9-682f-43f6-9123-f60a9b4e225a)
 
 ##Install Dependencies
