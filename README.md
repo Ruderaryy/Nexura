@@ -35,21 +35,28 @@ npm start
 
 ## Usage
 
-1. Viewing and Managing Your Stock Watchlist
-Navigate to the Main Page: After starting the application, you’ll land on the main page where your stock watchlist is displayed.
-Search Stocks: Use the search bar at the top of the watchlist to filter stocks by name. Enter keywords like "infy" or "gold mcx" to find specific stocks.
-View Stock Details: Each stock item shows its name, percentage change, price, and an indicator of whether the stock is going up or down.
-2. Interacting with Stock Items
-Hover to Reveal Actions: Hover over a stock item to reveal action buttons for buying, selling, or viewing analytics.
-Buy Stock: Click the "Buy" button to open the buy action window where you can specify the quantity and price for your order.
-3. Placing a Buy Order
-Open Buy Action Window: Clicking the "Buy" button will open a pop-up window where you can enter the quantity and price for the stock you want to purchase.
-Enter Quantity and Price:
-Quantity: Enter the number of shares you wish to buy.
-Price: Enter the price per share.
-Calculate Margin: The margin required will be automatically calculated based on the quantity and price you input.
-Place Order: Click the "Buy" button in the pop-up to place your order. The application will send the order to the backend for processing.
-Cancel Order: Click the "Cancel" button to close the buy action window without placing an order.
-4. Visualizing Stock Data
-View Doughnut Chart: At the bottom of the watchlist, a doughnut chart provides a visual representation of the stock prices in your watchlist.
-Interact with Chart: Hover over or click on the chart segments to see more details about each stock.
+### 1. **Viewing and Managing Your Stock Watchlist**
+
+- **Navigate to the Main Page**: After starting the application, you’ll land on the main page where your stock watchlist is displayed.
+- **Search Stocks**: Use the search bar at the top of the watchlist to filter stocks by name. Enter keywords like "infy" or "gold mcx" to find specific stocks.
+- **View Stock Details**: Each stock item shows its name, percentage change, price, and an indicator of whether the stock is going up or down.
+
+### 2. **Interacting with Stock Items**
+
+- **Hover to Reveal Actions**: Hover over a stock item to reveal action buttons for buying, selling, or viewing analytics.
+- **Buy Stock**: Click the "Buy" button to open the buy action window where you can specify the quantity and price for your order.
+
+### 3. **Placing a Buy Order**
+
+- **Open Buy Action Window**: Clicking the "Buy" button will open a pop-up window where you can enter the quantity and price for the stock you want to purchase.
+- **Enter Quantity and Price**:
+  - **Quantity**: Enter the number of shares you wish to buy.
+  - **Price**: Enter the price per share.
+- **Calculate Margin**: The margin required will be automatically calculated based on the quantity and price you input.
+- **Place Order**: Click the "Buy" button in the pop-up to place your order. The application will send the order to the backend for processing.
+- **Cancel Order**: Click the "Cancel" button to close the buy action window without placing an order.
+
+### 4. **Visualizing Stock Data**
+
+- **View Doughnut Chart**: At the bottom of the watchlist, a doughnut chart provides a visual representation of the stock prices in your watchlist.
+- **Interact with Chart**: Hover over or click on the chart segments to see more details about each stock.
